@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "416371038349",
+    "firebase_url": "https://speed-dates.firebaseio.com",
+    "project_id": "speed-dates",
+    "storage_bucket": "speed-dates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416371038349:android:b11c0de80def6c6d",
+        "android_client_info": {
+          "package_name": "com.a10e15.mspo.speeddateing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416371038349-bjpu7o6gq7nsa7g116hm9adep2glcc94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a10e15.mspo.speeddateing",
+            "certificate_hash": "166be761faf52ac315f021b4bd280b2a6f80b09b"
+          }
+        },
+        {
+          "client_id": "416371038349-1ong6c6o6fnfeg1j0oim6li45mdfug9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLdEzNqLnDvCOTbBKfFuF3LXAkErhI0AY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416371038349-1ong6c6o6fnfeg1j0oim6li45mdfug9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

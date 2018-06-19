@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:scrollbars="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content"
+        android:paddingTop="30dp"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp">
+
+        <MultiAutoCompleteTextView
+            android:id="@+id/contactInfo"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:gravity="top|left"
+            android:hint="Enter whatever contact info you wish phone number,  skype, IG, whatever" />
+        <Button
+            android:id="@+id/next_btn"
+            android:layout_marginTop="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Next"
+            android:onClick="next_fragment"/>
+    </LinearLayout>
+</ScrollView>

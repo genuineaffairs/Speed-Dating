@@ -1,0 +1,7 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Preference android:title="Logout"
+        android:key="@string/logout_btn"
+        android:summary="This will log you out of the app."/>
+</PreferenceScreen>
